@@ -2,7 +2,7 @@
 
 ---
 
-# Banking System - CodeAlpha Internship Project
+# Banking System - TASK # 3
 
 ## 🏦 Project Overview
 A console-based banking application written in C++ that simulates basic banking operations.
