@@ -1,4 +1,4 @@
-# CodeAlpha_Banking-System
+# Banking System - CodeAlpha Internship Project
 
 ---
 
