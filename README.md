@@ -19,7 +19,6 @@ A console-based banking application written in C++ that simulates basic banking 
    ```bash
    g++ banking_system.cpp -o bank
 
-# Run the Program
 
    ./bank      # Linux/Mac
     bank.exe    # Windows
